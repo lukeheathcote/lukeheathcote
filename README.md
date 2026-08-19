@@ -1,21 +1,25 @@
 # Hi there 👋
 
-I'm Luke, a Technical Artist based in London, working where art meets engineering. I build the tools, pipelines, and automation that let creative teams move faster - mostly in Python - alongside real-time 3D and asset optimisation. Background in 3D and motion design, with credits across work for Disney, PlayStation, Epic Games, and the V&A.
+Senior Technical Artist and Creative Technologist with a background in 3D generalist work and motion design, operating where visual craft meets technical architecture. I build the tools, pipelines, and real-time systems that let creative teams move faster and deliver ambitious work across games, virtual production, and major live events. Equally comfortable crafting high-end 3D assets, authoring shaders, or writing custom automation utilities, I move smoothly between Unreal Engine, Unity, and traditional DCC pipelines. I am at my best taking complex technical bottlenecks and turning them into performant, reliable solutions the whole team can use.
 
 ### 🔧 What I'm working on
-- Production tooling and automation in Python for real-time and rendered pipelines - file processing, render-farm submission, asset handling
-- A solo Unity remake of the party game *Herd Mentality*, taken from concept to a finished, playable game
-- Learning C# next, to push deeper into Unity tooling and engine-side scripting
 
-### 🛠️ Tools I use
-**Scripting & Pipeline:** Python · FFMPEG · Deadline · Perforce · Git  
-**Real-Time:** Unreal Engine · Unity · MetaHumans · Live Link  
-**3D & Look Dev:** Houdini · Maya · Cinema 4D · Substance Designer & Painter  
-**Rendering:** Redshift · V-Ray  
+* Production tooling and pipeline automation in Python for real-time and offline workflows—focusing on automated asset ingestion, file processing, and render-farm submission scripts
+* Building custom interactive real-time prototypes in Unity, taking projects from initial concept and shader setups to playable builds
+* Expanding custom C# utilities and ExtendScript automation for DCC and engine workflows
 
-### 📫 How to reach me
-- Portfolio: [ArtStation](https://www.artstation.com/luke_heathcote)
-- [LinkedIn](https://www.linkedin.com/in/luke-heathcote/)
-- Email: lukeheathcote1@gmail.com
+### 🛠️ Tools & Tech Stack
 
-*Most of my art lives on ArtStation - GitHub is where I keep tools, scripts, and tech-art experiments.*
+**3D & Procedural:** Maya · Cinema 4D · Houdini · Blender · Substance Designer · Substance Painter · RizomUV
+
+**Real-Time & Interactive:** Unreal Engine 4 & 5 · Unity · Notch · Disguise · TouchDesigner · Cavalry
+
+**Rendering & Pipeline:** Redshift · Python · FFmpeg · Deadline · Perforce · Git · AWS
+
+**Design & Motion:** Adobe Creative Suite · Figma · After Effects · Lottie
+
+**AI & Emerging Tools:** ComfyUI · Claude Code · GitHub Copilot · Magnific AI
+
+---
+
+*Most of my 3D art lives on my portfolio—GitHub is where I host my custom tools, pipeline scripts, and tech-art experiments, all free to download.*
